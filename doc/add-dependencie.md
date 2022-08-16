@@ -7,6 +7,6 @@
 
 ## Leiningen
 ``` clj
-:repositories {"devcord releases" "https://oss.sonatype.org/content/repositories/snapshots"}
-:dependencies [[de.dertev/stdx-cljc "1.10.3"]]
+:repositories {"devcord releases" "https://repo.devcord.club/releases/"}
+:dependencies [[de.dertev/stdx-cljc "0.1.0"]]
 ```
