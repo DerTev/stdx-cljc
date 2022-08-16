@@ -1,0 +1,16 @@
+docs_dir: doc
+site_name: "stdx-cljc"
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: cyan
+    accent: light blue
+    features:
+    - navigation.tracking
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
