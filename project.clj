@@ -5,4 +5,5 @@
   :dependencies [[org.clojure/clojure "1.10.3"]]
   :repositories [["releases" {:url "https://repo.devcord.club/releases"
                               :username :env/devcord_username
-                              :password :env/devcord_password}]])
+                              :password :env/devcord_password}]]
+  :plugins [[lein-codox "0.10.8"]])
