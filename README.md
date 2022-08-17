@@ -5,7 +5,7 @@ Standart Library Extensions for Clojure and ClojureScript
 ## Add it to your project
 ```clj
 :repositories {"devcord releases" "https://repo.devcord.club/releases/"}
-:dependencies [[de.dertev/stdx-cljc "0.1.0"]]
+:dependencies [[de.dertev/stdx-cljc "0.2.0"]]
 ```
 
 ## Docs
