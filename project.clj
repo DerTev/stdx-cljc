@@ -7,4 +7,5 @@
                               :username :env/devcord_username
                               :password :env/devcord_password}]]
   :plugins [[lein-codox "0.10.8"]]
-  :codox {:source-uri "https://github.com/DerTev/stdx-cljc/blob/master/{filepath}#L{line}"})
+  :codox {:source-uri "https://github.com/DerTev/stdx-cljc/blob/master/{filepath}#L{line}"
+          :metadata {:doc/format :markdown}})
