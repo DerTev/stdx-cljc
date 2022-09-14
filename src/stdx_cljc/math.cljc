@@ -3,4 +3,4 @@
 (defn between
   "Checks, if *number* is between *x* and *y*."
   [number x y]
-  (and (> number x) (< number y)))
+  (and (>= number x) (<= number y)))
