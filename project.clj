@@ -1,4 +1,4 @@
-(defproject de.dertev/stdx-cljc "0.2.0"
+(defproject de.dertev/stdx-cljc "0.2.1"
   :description "Standart Library Extensions for Clojure and ClojureScript"
   :url "https://github.com/dertev/stdx-cljc"
   :license {:name "MIT License"}

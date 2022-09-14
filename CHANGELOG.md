@@ -7,3 +7,7 @@
 ## 0.2.0
 
 - Add ``between``
+
+## 0.2.1
+
+- Fix ``between``
